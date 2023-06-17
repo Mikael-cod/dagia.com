@@ -188,13 +188,14 @@ section#hero{
 }
 .words{
     position: relative;
-    margin-left: 10%;
+    margin-left: 5%;
     padding: 4rem 8rem;
     display: flex;
     color: black;
     justify-content: center;
     margin-bottom: 1rem;
     margin-top:-80px;
+    max-width:80%;
 }
 /* chat css*/
 .chat-icon img{
